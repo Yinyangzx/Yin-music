@@ -16,6 +16,14 @@ Each entry must provide:
 return {
     Catalog = {
         {
+            Name = "House of Balloons",
+            Artist = "The Weeknd",
+            Duration = "3:30",
+            Cover = "rbxassetid://71223149192706",
+            AudioURL = "https://raw.githubusercontent.com/Yinyangzx/Yin-ControllerMusic/main/The%20Weeknd%20-%20House%20of%20Balloons%20%20Sub.Espa%C3%B1ol%20%20Lyrics.mp3",
+            CacheName = "house_of_balloons.mp3",
+        },
+        {
             Name = "The Hills",
             Artist = "The Weeknd",
             Duration = "4:02",
