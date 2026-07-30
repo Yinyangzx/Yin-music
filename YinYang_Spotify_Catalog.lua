@@ -30,15 +30,7 @@ return {
             Cover = "rbxassetid://110140684521717",
             AudioURL = "https://raw.githubusercontent.com/Yinyangzx/Yin-ControllerMusic/main/MONTAGEM%20DESCE%20-%20Super%20Slowed.mp3",
             CacheName = "montagem_desce_super_slowed.mp3",
-        },
-        {
-            Name = "Save Your Tears",
-            Artist = "The Weeknd",
-            Duration = "3:35",
-            Cover = "rbxassetid://123457",
-            AudioURL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/audio/save_your_tears.mp3",
-            CacheName = "save_your_tears.mp3",
-        },
+        },    
         {
             Name = "Die For You",
             Artist = "The Weeknd",
