@@ -16,14 +16,6 @@ Each entry must provide:
 return {
     Catalog = {
         {
-            Name = "House of Balloons",
-            Artist = "The Weeknd",
-            Duration = "3:30",
-            Cover = "rbxassetid://71223149192706",
-            AudioURL = "https://raw.githubusercontent.com/Yinyangzx/Yin-ControllerMusic/main/The%20Weeknd%20-%20House%20of%20Balloons%20%20Sub.Espa%C3%B1ol%20%20Lyrics.mp3",
-            CacheName = "house_of_balloons.mp3",
-        },
-        {
             Name = "The Hills",
             Artist = "The Weeknd",
             Duration = "4:02",
@@ -54,6 +46,15 @@ return {
             Cover = "rbxassetid://123459",
             AudioURL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/audio/luna_en_vivo.mp3",
             CacheName = "luna_en_vivo.mp3",
+        },
+
+        {
+            Name = "Yala",
+            Artist = "YALA",
+            Duration = "2:39",
+            Cover = "rbxassetid://97873295754017",
+            AudioURL = "https://raw.githubusercontent.com/Yinyangzx/Yin-ControllerMusic/main/YALA%20(Slowed).mp3",
+            CacheName = "yala_slowed.mp3",
         },
     },
 }
