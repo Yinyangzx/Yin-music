@@ -32,11 +32,11 @@ return {
             CacheName = "montagem_desce_super_slowed.mp3",
         },    
         {
-            Name = "Die For You",
-            Artist = "The Weeknd",
-            Duration = "4:20",
-            Cover = "rbxassetid://123458",
-            AudioURL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/audio/die_for_you.mp3",
+            Name = "Montagem Limerencia - Slowed ",
+            Artist = "Oto8 & HXVSAGE & DJ PORTU",
+            Duration = "1:48",
+            Cover = "rbxassetid://95310569926046",
+            AudioURL = "https://github.com/Yinyangzx/Yin-ControllerMusic/blob/main/Montagem%20Limerencia%20(Slowed)%20(1).mp3",
             CacheName = "die_for_you.mp3",
         },
         {
