@@ -37,7 +37,7 @@ return {
             Duration = "1:48",
             Cover = "rbxassetid://95310569926046",
             AudioURL = "https://github.com/Yinyangzx/Yin-ControllerMusic/blob/main/Montagem%20Limerencia%20(Slowed)%20(1).mp3",
-            CacheName = "die_for_you.mp3",
+            CacheName = "Montagem Limerencia - Slowed.mp3",
         },
         {
             Name = "Luna - En Vivo",
