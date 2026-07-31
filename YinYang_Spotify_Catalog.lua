@@ -119,13 +119,13 @@ return {
             AudioURL = "https://raw.githubusercontent.com/Yinyangzx/Yin-ControllerMusic/main/YALA%20(Slowed).mp3",
             CacheName = "yala_slowed.mp3",
         },
-    },
         {
-            Name = "Deja vu",
+            Name = "Deja Vu",
             Artist = "33 nimb • y • CACAU",
             Duration = "1:42",
             Cover = "rbxassetid://109854752313229",
             AudioURL = "https://raw.githubusercontent.com/nbritez6729-blip/A/main/deja%20vu%20-%2033nimb%2C%20CACAU%20CHUU.mp3",
-            CacheName = "deja_vu_33nimb_cacau.mp3",
+            CacheName = "deja_vu_33nimb_cacau_chuu.mp3",
         },
+    },
 }
